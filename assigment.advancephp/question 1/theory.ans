@@ -1,0 +1,102 @@
+ans:-1    object oriented programming:- programing pradigm based on the concept of object ,which can contain data and code,data in the from of field and code in the from of procedures.
+A common features of object is that procedures are attached to them and can access and modify the object data fields in the brand of oop,there is usally a special name such as 
+this or self used refer to the current object.in oop computer program are design by making theam out of object that interface with one another.
+
+
+ans:-2 there are three major features in object oriented programing that makes them dofferent than non-language: encapsulation ,inheritance,and polymorphism
+
+ans:-3 
+         abstract class:- 1)abstract class can have abstact and non abstract method 
+                                     2)abstract class doest support multi inheritance
+                                     3) abstract class can have final ,non final static and non static variables.
+                                      4)abstract class can provide the implement of interface
+
+           interface:- 1) interface can have only abstrsct  methods since java 8 it can have defalut and static method also
+                              2) interface support multiple inheritance
+                              3) interface has only static and final variable
+                              4)interface cant provide the implementation of abstract class
+
+
+ans:-4 function overloading in php is used to dynamically crete properties and method these dynamic entities are processed by magic methods which can be used in a class for 
+          various action types,function overloading contains same function name and that function performans different task according to number of arguments.
+
+ans:-5  
+            class:-1) A class can supported and methods both an abstract as well as concrete methods 
+                         2) multiple inheritance is not supported 
+                         3)final,non-final ,static and non-static variable supported
+            
+            abstract:- 1)interface can have only abstract methods ,java 8 onward it can have default as well as static methods
+                              2) interface support multiple inheritance
+                              3) only static and final variable are permitted
+
+
+jquery :-
+
+ans 1:-  jquery is a lightweight,"write less,do more javascript library
+             
+            The purpose of jquery is to make it make it much easier to use javascript on your website
+
+            jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
+
+            jQuery also simplifies a lot of the complicated things from JavaScript, like AJAX calls and DOM manipulation 
+                                      
+
+ans 2:- javascript :  It is a major scripting programming language that is used to make websites more responsive and interactiv.
+                                  It is one of the pivoted parts alongside HTML and CSS which are used to create web pages.
+                                  If HTML & CSS decorates and designed the web-pages so, Javascript makes the web pages dynamic(we can say it gives them life). 
+                                  JavaScript is a major client-side language.
+
+        jquery : JavaScript is a major client-side language            
+                      It is the most popular JavaScript library invented by John Resign and was released in January 2006 at BarCamp NYC. 
+                       It is a free, open-source library and It’s a fast, concise, and rich-featured JavaScript library and also has cross-browser compatibility.
+                         In a concise manner, we can say that the “JQuery is a library to provide better client-side web page development” environment to the developer with the help of its feature-rich library.
+
+
+ans 3: diffrence between prop and attr :
+  
+  prop : This method is used to get the value of a proparty for the first element in the set of matched element
+
+          syntax: $(selector).prop(property)
+
+ attr: This method is used to either fetch the value of an attribute from the first element in the matche set or set attribute
+         value onto all matched element.
+
+
+  ans :  javascript : javascript is a lightweight programming language that is used most often as a component of webpage
+                                its webpage implementation enable clients-side script to interct with the user and create dynamic sites
+                                 it is a programing language that is interpreted and can handle object-oriented functionality
+               
+                      1) javascript is interpreted and therefore it is very lightweight.
+                      2) it was designed for the purpose of  devloping apps that focus on networks.
+                      3)it complements and is fully incorporated with HTML
+                      4)it is free to use on serveral operating system 
+
+
+ex:     
+                 <script>
+                          document.write("this text in to javascript");
+                   </script>
+
+    
+               jquery: jquery is a javascript library that was devloped that was devloped in 2006 by john resig. it is know for this 
+                           speed and brevity ,jquery makes it easier to move throught HTML pages,handle events
+                           use animation and interact with Ajex which makes it faster to build websites.
+
+                         jquery is a javascript library that is efficient , ligweight and compact in size ,it is  compatible with several operating system and browser
+                         making it cross-platfrom ,it is also knows as "write less,do more",which is another name for it ,beacuse it takes a large 
+                         number of typical activities ,each of which normally needs a larges number of lines of javascript code to do
+
+     
+
+ex:          <script  src=""https://www.tutorialspoint.com/jquery/jquery-3.6.0.js"></script>
+                <script>
+                          $(document).ready(function() {
+                             doctumet.write(this  text in to jquery );
+                      
+                   });
+
+                 </script>
+
+
+
+            
